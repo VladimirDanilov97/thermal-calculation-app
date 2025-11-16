@@ -6,7 +6,7 @@ from matplotlib.figure import Figure
 import math
 from matplotlib.ticker import MaxNLocator
 
-
+#Edited
 class MainWindow(QMainWindow):
     def __init__(self):
         super().__init__()
